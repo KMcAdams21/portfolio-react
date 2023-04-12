@@ -32,7 +32,7 @@ export const projects = [
         title: "ChatGPT App",
         subtitle: "HTML, CSS, Javascript, Electron",
         description: "A desktop app created to allow easy access to ChatGPT by use of the OpenAI API.",
-        image: "./OPENAI_Logo_White.png",
+        image: "./chatGPT_Logo.jpg",
         link: ""
     },
 ];
