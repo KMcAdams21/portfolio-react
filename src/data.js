@@ -28,6 +28,13 @@ export const projects = [
         image: "./PCRNews.jpg",
         link: ""
     },
+    {
+        title: "ChatGPT App",
+        subtitle: "HTML, CSS, Javascript, Electron",
+        description: "A desktop app created to allow easy access to ChatGPT by use of the OpenAI API.",
+        image: "./OPENAI_Logo_White.png",
+        link: ""
+    },
 ];
 
 export const skills = [
